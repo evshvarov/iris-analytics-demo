@@ -50,7 +50,7 @@ XData Cube [ XMLNamespace = "http://www.intersystems.com/deepsee" ]
   </measure>
   <measure name="Long" disabled="false" sourceProperty="Long" hidden="false" searchable="false" factNumber="2">
   </measure>
-  <measure name="Confirmed" disabled="false" sourceProperty="Confirmed" aggregate="SUM" hidden="false" searchable="false" formatString="#,#" factNumber="3">
+  <measure name="Confirmed" disabled="false" sourceProperty="Confirmed" hidden="false" searchable="false" factNumber="3">
   </measure>
   <measure name="Deaths" disabled="false" sourceProperty="Deaths" hidden="false" searchable="false" factNumber="4">
   </measure>
